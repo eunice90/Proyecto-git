@@ -1,0 +1,4 @@
+Class persona{
+
+String nombre;
+}
